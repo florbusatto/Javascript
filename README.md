@@ -1,2 +1,2 @@
 # Javascript
-Ejemplos bàsicos, intermedios y avanzado de Js
+Ejemplos bàsicos, intermedios y avanzados de Js
